@@ -1,0 +1,38 @@
+canonical_identifier: bkk:krp/KR6j0005/T/v1
+canonical_location: https://kanripo.org/bkk/KR6j0005/T/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 大毘盧遮那佛說要略念誦經
+  identifiers:
+    krp: KR6j0005
+    cbeta: T18n0849
+    cbeta_old_id: T18n0849
+    authorityid: CA0000647
+    json_key: T0849
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T18/T18n0849.xml
+    old_id: T18n0849
+  edition:
+    short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6j0005_000-T.yaml, hash: 'sha256:c756f7e662c16e20c3110e75c3e21311cbd64bc838aa2e874af097009f589faa'}
+  - {seq: 1, filename: KR6j0005_001-T.yaml, hash: 'sha256:11b82e500fd43cb4ddc2eebb2e0bbb73da96b71fba0e4894ca67e6fd3ab7c96c'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6j0005_000-T.markers.yaml, hash: 'sha256:db3ae1822f7d9892a0bc8fecec0a2fa586044159172a08179e85e77bc4e6724a'}
+  - {seq: 1, role: markers, filename: assets/KR6j0005_001-T.markers.yaml, hash: 'sha256:a49497475581d10c8eab47b3ce919e8083444313c05080225b76c3e532a7c337'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6j0005_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 11912
+  label: 大毘盧遮那佛說要略念誦經
+  type: juan
+  level: 1
+hash: sha256:ea5945a50ac09eaad709314c73c67738225d939260b8f4ee12612517e2b0f82b

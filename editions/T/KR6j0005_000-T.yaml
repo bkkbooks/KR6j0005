@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6j0005/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 大毘盧遮那佛說要略念誦經
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T18/T18n0849.xml
+    old_id: T18n0849
+hash: sha256:c756f7e662c16e20c3110e75c3e21311cbd64bc838aa2e874af097009f589faa
