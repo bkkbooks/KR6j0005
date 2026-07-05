@@ -22,9 +22,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6j0005_000.yaml, hash: 'sha256:c756f7e662c16e20c3110e75c3e21311cbd64bc838aa2e874af097009f589faa'}
-  - {seq: 1, filename: KR6j0005_001.yaml, hash: 'sha256:f28a20870932a4fd68f54d69cec5624ac66622a013349c09c6af908db1ba4279'}
+  - {seq: 1, filename: KR6j0005_001.yaml, hash: 'sha256:11b82e500fd43cb4ddc2eebb2e0bbb73da96b71fba0e4894ca67e6fd3ab7c96c'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6j0005_001.markers.yaml, hash: 'sha256:613bc817cfe36ce6d1a0dce2fe4c5e267f2c94cf003396aafac2beec79f540aa'}
+  - {seq: 0, role: markers, filename: assets/KR6j0005_000.markers.yaml, hash: 'sha256:69e2b4c25429abdc22792dc774a0c8ebe2bb8379409b185186cd047f9c12376e'}
+  - {seq: 1, role: markers, filename: assets/KR6j0005_001.markers.yaml, hash: 'sha256:e529734a7fb21b6245b90e3edebe5e170fbdd20f687f42a29106b5d278a398ab'}
 table_of_contents:
 - ref:
     seq: 1
@@ -36,7 +37,4 @@ table_of_contents:
   label: 大毘盧遮那佛說要略念誦經
   type: juan
   level: 1
-hash: sha256:d2ed7ed3515675473f89441f1cc6762039d343f1bbfa5d90f57b882173f05576
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:2dcf84799b6a617b7114bd9aba337598ad4b41b8eb5f5cf0c50b7957bf0f46c3
