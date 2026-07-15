@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6j0005/v1
 canonical_location: https://kanripo.org/bkk/KR6j0005/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 大毘盧遮那佛說要略念誦經
   identifiers:
@@ -22,10 +22,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6j0005_000.yaml, hash: 'sha256:c756f7e662c16e20c3110e75c3e21311cbd64bc838aa2e874af097009f589faa'}
-  - {seq: 1, filename: KR6j0005_001.yaml, hash: 'sha256:11b82e500fd43cb4ddc2eebb2e0bbb73da96b71fba0e4894ca67e6fd3ab7c96c'}
+  - {seq: 1, filename: KR6j0005_001.yaml, hash: 'sha256:6110f726890ebd0a2eee4e092fe322500fde1b22aa97b06693e0a3fbe0d810d7'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6j0005_000.markers.yaml, hash: 'sha256:69e2b4c25429abdc22792dc774a0c8ebe2bb8379409b185186cd047f9c12376e'}
-  - {seq: 1, role: markers, filename: assets/KR6j0005_001.markers.yaml, hash: 'sha256:e529734a7fb21b6245b90e3edebe5e170fbdd20f687f42a29106b5d278a398ab'}
+  - {seq: 1, role: markers, filename: assets/KR6j0005_001.markers.yaml, hash: 'sha256:e8abc299ee02113580df8d14421efc1a5470a54002e2317668717f3edd295d68'}
 table_of_contents:
 - ref:
     seq: 1
@@ -37,4 +37,7 @@ table_of_contents:
   label: 大毘盧遮那佛說要略念誦經
   type: juan
   level: 1
-hash: sha256:2dcf84799b6a617b7114bd9aba337598ad4b41b8eb5f5cf0c50b7957bf0f46c3
+hash: sha256:810b359549e87eb9bce522d263d9d9cacefb4c00fc3ac9f7a6966c60a589b28f
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
